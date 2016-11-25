@@ -1,7 +1,7 @@
 # React Flux Starterkit
-This is a starter kit for devloping a react app.
+This is a starter kit for developing a react app.
 
-## Setting up the kit localy
+## Setting up the kit locally
 
 - Clone the kit `git clone https://github.com/andela-aadepoju/react_flux_starterkit.git` for HTTPS or git clone `git@github.com:andela-aadepoju/react_flux_starterkit.git` for SSH
 

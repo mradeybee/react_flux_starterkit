@@ -1,4 +1,3 @@
-"use srtict"
 var gulp = require('gulp')
 var connect = require('gulp-connect') // Runs a local server
 var open = require('gulp-open') // Open a url in a web browser

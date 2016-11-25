@@ -14,8 +14,8 @@
     "no-unused-vars": 0,
     "no-underscore-dangle": 0,
     "no-alert": 0,
-    "no-lone-blocks": 0,
     "semi": [1, "never"],
+    "strict": [1, "never"],
     "no-console": 1
   },
   "globals": {
